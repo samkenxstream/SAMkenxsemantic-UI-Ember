@@ -73,7 +73,7 @@
     "ember-resolver": "^4.5.0",
     "ember-source": "~3.9.1",
     "ember-source-channel-url": "^3.0.0",
-    "ember-try": "^0.2.23",
+    "ember-try": "^2.0.0",
     "highlightjs": "^9.10.0",
     "loader.js": "^4.0.10",
     "tape": "^4.9.0",
